@@ -2,6 +2,7 @@
 
 This repository containing a comprehensive Exploratory Data Analysis (EDA) suite for the classic **Iris Dataset**, specifically optimized for **Google BigQuery (GoogleSQL)**.
 
+
 The project provides a turn-key SQL script to audit data quality, extract statistical insights, and prepare for machine learning workflows directly within the data warehouse.
 
 ---
